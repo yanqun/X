@@ -1,5 +1,4 @@
 
 public class UUU {
-	ssssffff
-	
+7777777
 }
