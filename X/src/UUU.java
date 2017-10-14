@@ -1,4 +1,4 @@
 
 public class UUU {
-00
+	sss
 }
