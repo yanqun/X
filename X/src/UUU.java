@@ -1,5 +1,5 @@
 
 public class UUU {
 
-	000999
+	0007777
 }
